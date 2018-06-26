@@ -1,11 +1,11 @@
-+++ 
-draft = true
-date = 2018-06-26T21:22:02+05:30
-title = "Android Architecture Sandbox #2"
-slug = "" 
-tags = []
-categories = []
-+++
+---
+draft: false
+date: 2018-06-26T21:22:02+05:30
+title: "Android Architecture Sandbox #2"
+slug: "" 
+tags: [tech,android]
+categories: [tech]
+---
 
 The objective is to write an android application that will fetch some data over the network, store it locally and display the data in a list-detail format.
 

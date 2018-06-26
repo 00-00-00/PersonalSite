@@ -2,6 +2,8 @@
 title: "Android Architecture Sandbox #1"
 date: 2018-06-25T11:14:44+05:30
 draft: false
+tags: [tech,android]
+categories: [tech]
 ---
 
 Around May of last year Android introduced a bunch of new classes around organising code better. Till then Android team never really took a stand to tell the community how to organise their codebases. What I observed was activities started developing unwieldy View classes (Activities and Fragments) that did everything from spawning new threads, making network calls, performing disk writes to anything and everything you could require the application to do.
