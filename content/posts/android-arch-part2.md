@@ -45,9 +45,9 @@ We need to think about our *views* now. We have `ViewModel` from Android archite
 
 We are going to use [ButterKnife]() for managing `View`s using annotations, which helps avoid some boilerplate code.
 
-The usual suspects: `RecyclerAdapter`, `CardView` and other [Design Library]() classes.
+The usual suspects: `RecyclerAdapter`, `CardView` and other [Design Library](https://developer.android.com/topic/libraries/support-library/features#material-design) classes.
 
-We also want to try using `ConstraintLayout`, [Paging (Beta)]()
+We also want to try using `ConstraintLayout`, [Paging (Beta)](https://developer.android.com/topic/libraries/support-library/features#material-design)
 
 
 

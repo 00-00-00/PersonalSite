@@ -50,6 +50,11 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "Travel-Diary"
     weight = 2
+    url = "/travel-diary/"
+[[menu.main]]
+    name = "About"
+    weight = 3
     url = "/about/"
+
