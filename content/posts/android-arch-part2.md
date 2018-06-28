@@ -49,6 +49,8 @@ The usual suspects: `RecyclerAdapter`, `CardView` and other [Design Library](htt
 
 We also want to try using `ConstraintLayout`, [Paging (Beta)](https://developer.android.com/topic/libraries/support-library/features#material-design)
 
+[Next part](/posts/android-arch-part3), we'll set up the API call using Retrofit, Database using Room and ViewModel all of whom will be using models in LiveData
+
 
 
 
