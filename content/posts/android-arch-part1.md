@@ -25,7 +25,7 @@ Android problems
 This is something that was driven into my head by <a href="https://www.infoq.com/presentations/Simple-Made-Easy">Rich Hickey</a>
 <span><h2 style="{margin: auto}">Simple doesn't mean easy</h2></span>
 
-The solution for the problem would be to break down these monolithic classes into seperate classes, i.e. <strong>Seperation of concerns</strong>.
+The solution for the problem would be to break down these monolithic classes into separate classes, i.e. <strong>Separation of concerns</strong>.
 This would enable the logic related to rendering of the screen itself be consolidated in one place whereas the business logic would be moved to another class. The assumption here is that we have done a good job to abstract the logic that is not relevant to either of the classes (API clients, Queries,...), the next question is how these two classes interact. As you may have already, this not an exclusive problem for Android but for most software user interface systems.
 
 So the available solutions for us are: <br>

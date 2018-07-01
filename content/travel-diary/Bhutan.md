@@ -1,6 +1,23 @@
 ---
-title: "Bhutan"
+title: "Bangalore - Bhutan"
 date: 2018-06-27T11:56:00+05:30
-draft: true
+draft: false
 ---
 
+---
+#The Plans
+
+I don't clearly remember how the plan started. I can't see how such a plan could have come into our minds except as a joke. I don't think any of us had the faintest clue that we were capable of a such an adventure.
+
+Wanting to see the Himalayas is something that had been driving me to plan for a tour for a long time. We might have picked Bhutan for multiple reasons. May be it was because Leh was too *mainstream*. May be it was because Bhutan is another country, and crossing international borders by our motorcycles sounded like a very exciting prospect. Especially for us from the tip of the peninsula, who share borders with no one but the great Indian Ocean. I suspect it was mostly the movie [Neelakasham Pachakadal Chuvanna Bhumi](https://en.wikipedia.org/wiki/Neelakasham_Pachakadal_Chuvanna_Bhoomi). The movie strikes a chord in some of us. Two good friends ride from Kerala on two Royal Enfields through the East Coast till Calcutta, and further. The movie explores the mind and emotions of the protagonist Asi as they travel and find themselves with people and events, who means something to the troubles that haunt Asi. Very much inspired by [Che Guevera's Motorcycle Diaries](https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)), it is not as if Che is a stranger to our group. The comradery between the two travellers, the motorcycles, the excellent soundtrack;
+
+>I am sure somewhere along the lines we asked each other before we asked ourselves, Can we do that?
+
+So we started looking at the route map. We start from Bangalore, ride towards the east coast. Once we reach the highway, we bolt towards Vishakapatnam. From there we would move towards Puri, visit Konark temple. Then it's Calcutta. Calcutta is a major milestone for me. I've heard lot about the city. Stories of the past. From Calcutta we move towards the "chicken-neck", destination Siliguri. Siliguri to Sikkim. Darjeeling, Gangtok. It looks like there is a road that lead from Sikkim to Bhutan. But we are not clear about that. As far as we can see there are only two major entry points into Bhutan through the borders. The one at Jaigaon which is the West Bengal side and one at the Assam side. So the next stop would be riding down towards Jaigaon. Spend some time with paperwork to cross the border to Phuentsholing, Bhutan's border town, and climb up to ...
+
+We realised we didn't know much about the roads in Bhutan nor of Bhutan itself. It was a small country in the Himalayas. For most, that is all they'll ever know. We started looking around for the best motorcycle tour route for Bhutan and came across [Royal Enfield's Tour of Bhutan](https://royalenfield.com/tob/). They travelled from Phuentsholing to Paro. Visited the [Tiger's nest Monastery](https://en.wikipedia.org/wiki/Paro_Taktsang). Then they travelled to the capital city of Thimphu, then Phobjika Valley, Bhumtang and cross the border over to the other side. We were not sure how to exactly do that though. We tried to contact the members of the Enfield Tour of '15 to find out, exactly how they crossed over the border but to no avail. We figured we keep this plan in mind and figure out a way once we were there. Leaves were thin and we all agreed the best plan was to send the bikes back via Rails or some courier company. 
+
+Some of us wanted to join the trip from Calcutta. The plan was four bikes, four riders.Two who were going to fly in. I was not sure of the logistics. I wanted to make sure that everyone carries their own luggage. We don't want to overload any of the bikes nor introduce an unnecessary dependencies among ourselves. The two who is going to fly in are going to bring their own luggage. I had no clue about the Himalayan roads but I was sure it would be no easy task to traverse it. We decided it would be better if two find a way to rent a car from Cal and drive along us. Another thing that caused me concern, although not as material as the other reason, were the emotions of the travellers. four on motorcycles and two on an airplane are already on two journeys, no matter where they meet up. The investment the four has made with their energies will inevitably clash with the two that have not. Moods will be tense. Fights were for certain. I had an uneasy feeling about it. Finding a rental car that can cross borders proved hard, and it looked like the two wouldn't be able to make it.
+
+
+[Post in Construction. Update coming soon]

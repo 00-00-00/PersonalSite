@@ -7,7 +7,8 @@ tags: [tech,android]
 categories: [tech]
 ---
 
-Stubbing and mocking methods are crucial for writing tests for any codebase. For Android, I wrote some unit tests for the modules using [JUnit4]() and [Mockito]() for the mocks. My codebase is in **Kotlin**, so I wanted to write tests in Kotlin as well. [Kluent]() and [Mockito Kotlin](https://github.com/nhaarman/mockito-kotlin) gives us nifty wrappers around Junit and Mockito for Kotlin. 
+Stubbing and mocking methods are crucial for writing tests for any codebase. For Android, I wrote some unit tests for the modules using [JUnit4]() and [Mockito]() for the mocks. My codebase is in **Kotlin**, so I wanted to write tests in Kotlin as well. [Kluent]() and [Mockito Kotlin](https://github.com/nhaarman/mockito-kotlin) gives us nifty wrappers around Junit and Mockito for Kotlin.
+
 + Android Test Runner ?
 + Android Test Rules ?
 + Hamcrest matchers
@@ -70,3 +71,38 @@ Ach! Mockito and PowerMockito is not interacting well. What is the solution? *Mo
 What is the result?
 
 **//Code that mocks using Powermock**
+
+Now we need to mock the extra methods on Intent
+
+Failed again. 
+``` 
+
+java.lang.ClassCastException: kotlin.Unit cannot be cast to android.content.Intent
+	at android.content.Intent$MockitoMock$1011786910.putExtra(Unknown Source)
+	at in.flohapp.notification.handler.WebViewNotificationHandler.getWebViewPendingIntent(WebViewNotificationHandler.kt:72)
+	at in.flohapp.notification.handler.WebViewNotificationHandler.initialisePendingIntent(WebViewNotificationHandler.kt:65)
+	at in.flohapp.notification.handler.WebViewNotificationHandler.onDataReceived(WebViewNotificationHandler.kt:28)
+	at in.flohapp.WebViewNotificationTest.webViewNotificationHandler_shouldHaveTitleDescriptionAndActions(WebViewNotificationTest.kt:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+```
+
+There is progress. But it looks like the mocked Intent is returning `null`. After a bit of digging, I've found that Intent and other Android classes are stubbed out with versions which will return null for all of the method calls by default. What are the possible solutions to the problems?
+
++ Run the tests as Instrumentation tests instead
++ Replace Intent stub classes with a class in test package that doesn't return null
++ Try [RoboElectric](http://robolectric.org/) to get better mocks of Android SDK classes.
+
+RoboElectric uses `@RunWith(RobolectricTestRunner.class)`. Does this integrate well with PowerMock?
+https://github.com/robolectric/robolectric/wiki/Using-PowerMock
+
+Looks like we need an additional dependency
+
+`testCompile "org.powermock:powermock-classloading-xstream:1.6.6"`
+
+What does it do?
+
+>The PowerMockRule is needed to start PowerMock without using it with the @RunWith annotation (we already use RobolectricTestRunner for that). @PowerMockIgnore is needed because we should  >not instrument the Mockito and Robolectric libraries themselves; also the Android classes are already instrumented by Robolectric.

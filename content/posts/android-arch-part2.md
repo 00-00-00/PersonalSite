@@ -34,7 +34,7 @@ The API also has a timestamp as a field. Since we are not blessed with the Java 
 >store it locally
 
 
-Android architecture components gives us [Room](https://developer.android.com/topic/libraries/architecture/room) which is an ORM over SQLite. The tedious nature of managing DB Connections and Queries using SQLite is something we can live without. When I had previously used [Realm](https://realm.io/) for mobile database, it had shown me the freedom. It let me move so fast that my estimates were short by days. We want to try how easy Room is to work with and how well it does it's job on the surface. I may need to write tests to effectively test the perfomance though. Let's add it to backlog for now. 
+Android architecture components gives us [Room](https://developer.android.com/topic/libraries/architecture/room) which is an ORM over SQLite. The tedious nature of managing DB Connections and Queries using SQLite is something we can live without. When I had previously used [Realm](https://realm.io/) for mobile database, it had shown me the freedom. It let me move so fast that my estimates were short by days. We want to try how easy Room is to work with and how well it does it's job on the surface. I may need to write tests to effectively test the performance though. Let's add it to backlog for now. 
 
 
 >display data in a list-detail format
