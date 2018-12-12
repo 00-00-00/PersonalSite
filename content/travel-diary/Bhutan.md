@@ -5,7 +5,7 @@ draft: false
 ---
 
 ---
-#The Plans
+# The Plans
 
 I don't clearly remember how the plan started. I can't see how such a plan could have come into our minds except as a joke. I don't think any of us had the faintest clue that we were capable of a such an adventure.
 
@@ -20,4 +20,4 @@ We realised we didn't know much about the roads in Bhutan nor of Bhutan itself. 
 Some of us wanted to join the trip from Calcutta. The plan was four bikes, four riders.Two who were going to fly in. I was not sure of the logistics. I wanted to make sure that everyone carries their own luggage. We don't want to overload any of the bikes nor introduce any unnecessary dependencies among ourselves. The two who are going to fly in are going to bring their own luggage. I had no clue about the Himalayan roads but I was sure it would be no easy task to traverse it. We decided it would be better if two find a way to rent a car from Cal and drive along us. Another thing that caused me concern, although not as material as the other reason, were the emotions of the travellers. four on motorcycles and two on an airplane are already on two journeys, no matter where they meet up. The investment the four has made with their energies will inevitably clash with the two that have not. Moods will be tense. Fights were a certainity. I had an uneasy feeling about it. Finding a rental car that can cross borders proved hard, and it looked like the two wouldn't be able to make it.
 
 
-[Post in Construction. Update coming soon]
+[Post in Construction. If you are reading this and want to read more, ping me on one of my online accounts, and I'll stop being lazy and write it faster]
