@@ -4,7 +4,8 @@ date: 2018-12-12T22:01:20+05:30
 draft: false
 ---
 
-# The mountains are calling
+---
+## The mountains are calling
 
 The moment I completed the Bhutan trip, I knew Leh was the next destination. After a failed previous attempt to make it the holy lands of an Indian motorcyclist, I was loosely aware of the destination that I wanted to reach. This time around I knew going in that I am going to be attempting this journey alone, so if it fails it's all on me. It also meant that I had to pull all the weight of coming up with the entire plan, despite being terrible at planning anything. On the brighter side, since it's just me, and I am not a person who likes everything to be mapped out to the last detail, I didn't have anybody to convince. I was not going to attempt Leh during the months of June or July for sure, the months were the traffic of tourists are going to be guarenteed to be the highest. The snow that covered the mountain passes would have started to melt away, the roads would have been just opened. Leh, with no doubt, must be looking at it's best during these months. Yet, the factor that decided the question of when was quite simply: *How do you want to experience it?*. Recollections of a few popular attractions rushes to mind; noisy, conjusted. Cars, taxis and selfies are everywhere, people who are sometimes quite simply there. I see that they reached here, they have seen here, but are they experiencing here?
 
