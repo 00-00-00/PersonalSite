@@ -5,7 +5,7 @@ draft: false
 ---
 
 ---
-## The Plans
+##  The Plans
 
 I don't clearly remember how the plan started. I can't see how such a plan could have come into our minds except as a joke. I don't think any of us had the faintest clue that we were capable of a such an adventure.
 
