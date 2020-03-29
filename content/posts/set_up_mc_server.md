@@ -4,8 +4,6 @@ date: 2020-03-28T21:59:04+05:30
 draft: false
 ---
 
-# Your Local Minecraft Server on the Internet
-
 I recently got back into minecraft because of a friend. Me being interested mostly in redstone contraptions never got into multiplayer before. Since minecraft is pretty laid back, I thought it would be a great place to hangout with my friend. Whatever may be your reason to play minecraft, when you want to play with another person somewhere else, you start running into a few issues. 
 
 I had a free trial month for Realms available to me, so we started our game there. And towards the end of the trial we decided that this is the pace of the game that we like and we don't want to share the world with people that we didn't know. Unfortunately that meant dishing out some excessive recurring payments to keep our access to realms or run a minecraft server on my local machine and expose that over the internet.
