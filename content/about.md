@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-<img src="/resources/profile.jpg" style="max-width: 50%"/>
+<img src="/resources/profile.jpg.webp" style="max-width: 50%"/>
 
 Arjun here. I am very interested in observing and building systems, be it software systems or a motorcycle engine. Spinning a spanner is one of the most satisfactory feelings, so is when modules interact seamlessly with each other.
 I've mostly worked on Android codebases. I am learning about design patterns for software architecture, Restful APIs, databases and website development.
