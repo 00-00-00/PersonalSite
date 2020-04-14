@@ -47,6 +47,7 @@ We booked a red-eye flight on Friday night that got us to Delhi on Saturday morn
 The route plan we started with was to reach Chandigarh unpack our bikes load up our luggage, fill up fuel and start to Manali and hopefully reach by nightfall. All the way we were constantly looking up the government sites and other information sources about the road status from Manali - Kaza. We had our beyond rohtang passes ready, but that would end up being wasted because we were in Chandigarh now and the road status was still closed. So we decided to head to Shimla and hope for the best.
 
 So our final route plan was :
+
 * Chandigarh to Shimla
 * Shimla to Chitkul via Narkanda
 * Chitkul to Tabo
